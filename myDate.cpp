@@ -6,6 +6,7 @@
 #include <iostream>
 string monthName(int);
 //converts Gregorian date to Julain Date
+
 int myDate :: Greg2Julian(int month, int day, int year)
 {
 	int i, j, k;
